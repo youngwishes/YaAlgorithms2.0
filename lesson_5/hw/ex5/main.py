@@ -26,3 +26,4 @@ for i in range(1, n1 + 1):
         break
 else:
     print(-1)
+
